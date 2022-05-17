@@ -1,6 +1,6 @@
 ## SSIS Intro
 
-Following the [link](https://www.youtube.com/watch?v=NGzieSedvuM&list=PL_YF--8vjjEVEXMf2hEFn0D5tEJV9kRqi): 
+Following the [YouTube link](https://www.youtube.com/watch?v=NGzieSedvuM&list=PL_YF--8vjjEVEXMf2hEFn0D5tEJV9kRqi): 
 
 
 SQL Server Integeration Services (SSIS), useful for high performance ETL jobs (data migration). 
@@ -39,7 +39,7 @@ Output window: see error messages.
 
 Debug -> Windows -> Output window: get values at runtime. 
 
-mockaroo.com can provide free data for testing purposes. 
+[mockaroo.com](mockaroo.com) can provide free data for testing purposes. 
 
 
 
