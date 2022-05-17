@@ -33,6 +33,14 @@ How is variables different from Parameters?
 
 You can convert a package connection to project connection, the it will be available to all SSIS packages. 
 
+dtsx file -> Data Transformation Services Package File
+
+Output window: see error messages. 
+
+Debug -> Windows -> Output window: get values at runtime. 
+
+mockaroo.com can provide free data for testing purposes. 
+
 
 
 
